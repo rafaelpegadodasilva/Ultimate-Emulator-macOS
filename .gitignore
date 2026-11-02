@@ -1,0 +1,32 @@
+# macOS / Xcode
+.DS_Store
+DerivedData/
+build/
+*.app/
+*.dSYM/
+xcuserdata/
+
+# Biblioteca pessoal e dados de usuário
+ROMs/
+ROMS/
+Saves/
+System/
+*.sav
+*.srm
+*.state
+*.state1
+
+# Runtimes e binários pré-compilados do pacote de distribuição
+Cores/
+Frontends/
+MAME/
+Dependencias/
+External/
+work/
+
+# Arquivos locais e credenciais
+*.cer
+*.mobileprovision
+*.p12
+*.key
+*.log
