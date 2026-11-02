@@ -31,6 +31,14 @@ O pacote de distribuição sem jogos está hospedado no Google Drive:
 
 O pacote não inclui ROMs. Depois de baixar, escolha a pasta de ROMs de cada sistema dentro do aplicativo.
 
+## Versão para Windows
+
+O pacote do emulador para Windows está disponível no Google Drive:
+
+[Baixar Ultimate Emulator para Windows](https://drive.google.com/file/d/18W3Oqag_MtgMBTJYcndkrVD22SMvL9hH/view)
+
+O pacote é distribuído sem ROMs pessoais. Use jogos e BIOS obtidos legalmente e confira os requisitos do Windows antes da instalação.
+
 ## Aplicativos para Windows
 
 Conheça a vitrine oficial com capturas, descrições e links de instalação:
