@@ -31,6 +31,16 @@ O pacote de distribuição sem jogos está hospedado no Google Drive:
 
 O pacote não inclui ROMs. Depois de baixar, escolha a pasta de ROMs de cada sistema dentro do aplicativo.
 
+## Aplicativos para Windows
+
+Conheça a vitrine oficial com capturas, descrições e links de instalação:
+
+[Rafael Software — aplicativos para Windows 10 e 11](https://rafaelpegado.neocities.org)
+
+- [Social Video Downloader](https://apps.microsoft.com/detail/9p3sc1x00f77?gl=BR&hl=pt-BR) — vídeos, MP3, conversão opcional e legendas PT-BR.
+- [Gerador de Legendas Automáticas](https://apps.microsoft.com/detail/9MT6RT55V2W8?hl=pt-br&gl=BR&ocid=pdpshare) — SRT, TXT, incorporação de legendas e exportação FCPXML.
+- [Conversor MP4 Fácil](https://apps.microsoft.com/detail/9P2Q4LKLGQCS?hl=pt-br&gl=BR&ocid=pdpshare) — conversão para MP4, extração de MP3 e junção de vídeos.
+
 ## Requisitos
 
 - macOS compatível com o build distribuído.
